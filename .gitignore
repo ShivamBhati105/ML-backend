@@ -7,10 +7,9 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+.envs
 
-# Ignore environment variables
-.env
-
+# Ignore environment variabl
 # Ignore log files
 *.log
 
